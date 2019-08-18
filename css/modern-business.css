@@ -17,6 +17,20 @@ body {
   background-size: cover;
 }
 
+.carousel-caption h3{
+   color:white;
+
+}
+
+.carousel-caption p{
+  color: grey;
+  font-weight: bolder;
+}
+
+.card-text{
+  text-align: justify;
+}
+
 .portfolio-item {
   margin-bottom: 30px;
 }
